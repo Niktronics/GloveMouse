@@ -1,6 +1,6 @@
 ```
-py -m install pydirectinput
+py -m pip install pydirectinput
 ```
 ```
-py -m install websockets
+py -m pip install websockets
 ```
