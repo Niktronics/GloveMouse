@@ -5,7 +5,7 @@ Firwmare bare-metal per il mio progetto Guanto Mouse
 > siccome uso tethering usb che blocca udp e tcp grezzi
 > e non possiedo un ble adapter
 
-Librerie di python da scaricare:
+*Librerie di python da scaricare:*
 ```
 py -m pip install pydirectinput
 ```
