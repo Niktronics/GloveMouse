@@ -17,9 +17,8 @@ const float SENS_Y = 300.0;
 
 #define DEBUG false
 
-const char* ssid = "NikPhone";
-const char* password = "nikhotspot";
-IPAddress local_IP(10, 21, 45, 500);
+const char* ssid = "ssid";
+const char* password = "password";
 
 float offsetX, offsetY;
 bool prevL = false, prevR = false;
@@ -123,3 +122,4 @@ void loop() {
 
     WiFi.setSleep(true);
 }
+
